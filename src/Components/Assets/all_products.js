@@ -275,6 +275,5 @@ let all_product = [
         name: "header_2",
         category: "header",
         image: "header_2.png",
-    }
-    
+    },
 ];
