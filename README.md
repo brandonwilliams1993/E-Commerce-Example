@@ -1,7 +1,7 @@
-Hello, My Name is Brandon Cruz and this is my Full-Stack E-Commerce Project. 
-I have built an E-Commerce website for a BMX Bike company named "Cult".
+* Hello, My Name is Brandon Cruz and this is my Full-Stack E-Commerce Project. 
+* I have built an E-Commerce website for a BMX Bike company named "Cult".
 
-This site impliments FrontEnd, BackEnd, and Admin elements creating a Full-Stack site. 
+* This site impliments FrontEnd, BackEnd, and Admin elements creating a Full-Stack site. 
 
 
 
