@@ -30,6 +30,7 @@ import seat_vans_snake_1 from "./seat_vans_snake_1.png";
 import seat_vans_snake_2 from "./seat_vans_snake_2.png";
 import header_1 from "./header_1.png";
 import header_2 from "./header_2.png";
+import header_logo from "./header_logo.png";
 
 let all_product = [
     {
@@ -275,5 +276,11 @@ let all_product = [
         name: "header_2",
         category: "header",
         image: "header_2.png",
+    },
+    {
+        id: 33,
+        name: "header_logo",
+        category: "header",
+        image: "header_logo.png",
     },
 ];
