@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import "./Navbar.css";
-import header_logo_clear from "../Assets/header_logo_clear.png";
+import outline_font from "../Assets/outline_font.png";
 import cart from "../Assets/cart.png";
 
 const Navbar = () => {
@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <div className="nav-logo">
-        <img src={header_logo_clear} alt="" />
+        <img src={outline_font} alt="" />
         <p> </p>
       </div>
       <ul className="nav-menu">
